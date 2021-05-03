@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Validation/>
-      <Price />
+      {/* <Price /> */}
     </div>
   );
 }
