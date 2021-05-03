@@ -46,6 +46,7 @@
 ## Installation
  - Go to the repo at [Food_Budget](https://github.com/Glorvi23/food_budget) 
  - Bring this repo to local machine. 
+    - Fork the repo
     - Click on green button labeled 'Code'
     - Copy the SSH key
     - open git bash for Windows/terminal for MAC and type in, `git clone` followed by the SSH code which was copied 
